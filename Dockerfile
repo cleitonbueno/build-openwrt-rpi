@@ -9,6 +9,7 @@ RUN apt-get update && \
         apt-get install -y --no-install-recommends \
         apt-transport-https \
         bash \
+        bash-completion \
         build-essential \
         ccache \
         ecj \
